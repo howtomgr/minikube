@@ -1,0 +1,60 @@
+{
+  "category": "orchestration",
+  "created_date": "2025-09-15T23:14:54.040960",
+  "default_ports": [
+    8443
+  ],
+  "dependencies": [
+    "docker",
+    "kubectl",
+    "virtualization"
+  ],
+  "description": "Minikube is a local Kubernetes cluster for development and testing",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/orchestration/minikube",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/orchestration/minikube",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T23:14:54.040967",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "minikube",
+  "repository_url": "https://github.com/howtomgr/minikube",
+  "spec_version": "2.0",
+  "subcategory": "orchestration",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "kubernetes",
+    "containers",
+    "orchestration",
+    "development"
+  ],
+  "title": "Minikube",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/orchestration/minikube"
+}
